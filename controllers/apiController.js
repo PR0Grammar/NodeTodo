@@ -46,7 +46,7 @@ module.exports = function(app) {
     else {
 
       let newTodo = Todos({
-        username: 'test1',
+        username: 'test',
         todo: req.body.todo,
         isDone: req.body.isDone,
         hasAttachment: req.body.hasAttachment
