@@ -1,3 +1,3 @@
 # NodeTodo
 
-A Todo App Built Using the MEAN stack.
+A Todo API built using Express and Mongoose.
